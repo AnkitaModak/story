@@ -1,5 +1,6 @@
-Veda Sen was fixing bugs in her code when the terminal flashed a cryptic line:
-“You are not meant to see this, Veda.”
-She hadn't typed her name. No one else had access.
-Outside, thunder rumbled.
-Inside, her algorithm had just answered back.
+📘 Chapter 1: The Signal Beneath
+Veda’s terminal glitches again, but this time it plays sound—an eerie frequency buried inside white noise. After some debugging, she isolates the wave pattern. It matches a subsonic signature logged in the Earth’s crust... 73 million years ago.
+Her custom audio decoder reveals a rhythmic chant:
+"013… 073… 133… Echo still lives."
+
+She plots the numbers—coordinates pointing to the Andromeda Rift

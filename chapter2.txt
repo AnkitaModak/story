@@ -1,14 +1,7 @@
-The message vanished.
-Veda stared at her screen, heart thudding like the ceiling fan overhead. She ran a search for "UndefinedEntity_073" across every archive, every thread she’d ever bookmarked. Nothing. Except… one result blinked open from a forum she didn’t recognize.
-echo73.net
-No login page. Just code. Obscure. Recursive. Almost poetic.
-Her fingers hovered. She copied a fragment into her IDE and ran it through a debugger. The variables were malformed, but one phrase kept popping up:
-if (trust == true) {
-  initiate(contact);
+📗 Chapter 2: The Hollow Syntax
+Veda boards a research vessel to trace the Rift—and finds a derelict satellite orbiting something that isn’t a star. It’s a hollow sphere, humming with magnetic logic pulses. No life signs. But inside?
+A storage array filled with code samples. Each written in a language eerily close to C—but with emotional variables.
+if (sorrow > hope) {
+    rewrite(memory);
 }
-
-
-Contact? With who? Or what?
-The cursor blinked again.
-And her coffee budget spreadsheet opened on its own — formula cells rewritten with coordinates.
-
+She realizes these aliens weren't just sentient—they were grieving something. And coding through it.
