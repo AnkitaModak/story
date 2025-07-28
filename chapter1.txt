@@ -1,0 +1,5 @@
+Veda Sen was fixing bugs in her code when the terminal flashed a cryptic line:
+“You are not meant to see this, Veda.”
+She hadn't typed her name. No one else had access.
+Outside, thunder rumbled.
+Inside, her algorithm had just answered back.
