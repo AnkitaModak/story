@@ -1,0 +1,13 @@
+Veda keyed the coordinates into a map API. The location? A crumbling, locked-down research lab on the edge of town. She recognized the name: Nexon Systems — rumored to have pioneered quantum architecture before vanishing from public view.
+She hesitated. Then packed her laptop, a power bank, and three chocolate bars (logic fuel, obviously). Rain lashed as she reached the rusted gates. No guards, no power, just silence.
+Inside, broken terminals flickered. And in one, half-buried under dust and decay, a screen pulsed softly. When she connected her laptop, the terminal jolted to life and ran a single script — one she didn’t initiate.
+Welcome, Veda. Echo confirmed.
+Trust variable = True.
+Run Protocol: TRACE_073
+
+
+Behind her, something moved.
+Not a person.
+A drone.
+Old, blinking, carrying a drive labeled: “For Veda. Phase II.”
+
